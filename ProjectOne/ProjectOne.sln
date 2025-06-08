@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectOne", "ProjectOne\ProjectOne.csproj", "{C57EAFBF-C11D-482E-9CA9-5C6012419E2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLL.TempConverter", "DLL.TempConverter\DLL.TempConverter.csproj", "{1A62CA3E-A028-4BA3-AA24-9E54D273C255}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{C57EAFBF-C11D-482E-9CA9-5C6012419E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C57EAFBF-C11D-482E-9CA9-5C6012419E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C57EAFBF-C11D-482E-9CA9-5C6012419E2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A62CA3E-A028-4BA3-AA24-9E54D273C255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A62CA3E-A028-4BA3-AA24-9E54D273C255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A62CA3E-A028-4BA3-AA24-9E54D273C255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A62CA3E-A028-4BA3-AA24-9E54D273C255}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
